@@ -33,7 +33,7 @@ A React-based To-Do List app with features to add, filter, and track tasks. Incl
 ## Usage
 1. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
 2. Open in browser:
    ```
