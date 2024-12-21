@@ -19,7 +19,7 @@ A React-based To-Do List app with features to add, filter, and track tasks. Incl
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone [<repository-url>](https://github.com/eviillia/todo)
+   git clone https://github.com/eviillia/todo
    ```
 2. Navigate to the project:
    ```bash
